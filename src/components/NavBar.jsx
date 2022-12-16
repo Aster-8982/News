@@ -16,7 +16,7 @@ import { BiNews } from "react-icons/bi";
 
 const useStyles = makeStyles({
   root: {
-    background: "#5e6061",
+    // background: "#5e6061",
     "& .MuiIconButton-label": {
       color: "#fff",
     },
@@ -30,7 +30,7 @@ const useStyles = makeStyles({
   drawer: {
     "& .MuiDrawer-paper": {
       width: "10%",
-      background: "#5e6061",
+      background: "#3f50b5",
       marginTop: "64px",
       paddingLeft:'1rem'
     },
